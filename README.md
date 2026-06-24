@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A modern, responsive, and professional personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my profile, skills, projects, resume, and contact information in a visually appealing and user-friendly format.
 
-## 📌 Project Overview
+##  Project Overview
 
 The Personal Portfolio Website serves as an online professional profile where visitors can learn about me, explore my technical skills, view my projects, download my resume, and get in touch with me.
 
@@ -10,7 +10,7 @@ The website features a modern design with a professional color scheme, responsiv
 
 ---
 
-## ✨ Features
+##  Features
 
 * Professional and modern UI design
 * Fully responsive layout for desktop and mobile devices
@@ -26,7 +26,7 @@ The website features a modern design with a professional color scheme, responsiv
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -44,7 +44,7 @@ The website features a modern design with a professional color scheme, responsiv
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Portfolio
@@ -62,7 +62,7 @@ Portfolio
 
 ---
 
-## 📖 Website Sections
+##  Website Sections
 
 ### Header / Hero Section
 
@@ -90,7 +90,7 @@ Provides contact details for professional communication.
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
 ### Student Management System
 
@@ -106,7 +106,7 @@ A project that performs matrix operations such as addition, subtraction, multipl
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Download or clone the repository.
 2. Open the project folder.
@@ -115,7 +115,7 @@ A project that performs matrix operations such as addition, subtraction, multipl
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -135,12 +135,6 @@ Through this project, I gained practical experience in:
 
 Aspiring Software Developer and Web Developer
 
-GitHub: https://github.com/prt
-
-LinkedIn: https://linkedin.com/in/prt
 
 ---
 
-## 📄 License
-
-This project is created for educational and portfolio purposes.
